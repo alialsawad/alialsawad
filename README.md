@@ -46,4 +46,3 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 ## ⚡ Fun fact
 
 - I'm fluent in Arabic and English, and I have elementary proficiency in Japanese. 🌍
-```
