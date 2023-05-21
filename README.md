@@ -1,6 +1,5 @@
 Sure, let's make your GitHub README more impressive by adding more sections, using badges, emojis, and GIFs. Here's an enhanced version:
 
-```markdown
 # Hi there, I'm Ali Alsawad 👋
 
 ![Profile views](https://gpvc.arturio.dev/alialsawad)
