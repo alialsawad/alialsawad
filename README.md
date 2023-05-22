@@ -33,6 +33,11 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 ## 🏢 Work Experience
 
 - Full Stack JavaScript Developer at Coolshop srl (2022-Present)
+  - Led the full-stack JavaScript development process, demonstrating expertise in React, Node.js, MongoDB, and CouchDB for F.G. Wilson and Sidel's new CMS web application.
+  - Significantly improved legacy projects through strategic refactoring. Enhanced frontend using scalable and reusable component patterns and implemented the barrel architecture. Redesigned the backend using event-driven design and decider patterns, ensuring compatibility with any database integration.
+  - Proactively addressed code-related issues, specifically focusing on code smell and adherence to DRY (Don't Repeat Yourself) principles, resulting in more efficient and maintainable code.
+  - Facilitated a significant update to the code packages by replacing the core CMS functionality from using Formik to React Hook Form, enhancing the system's overall performance.
+  - Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high quality of projects.
 - Co-founder at WiFit (2021-2022)
 - Operations Manager at Al Taraf Trading LLC (2020-2022)
 
