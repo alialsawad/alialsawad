@@ -34,10 +34,12 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 
 - Full Stack JavaScript Developer at Coolshop srl (2022-Present)
   - Led the full-stack JavaScript development process, demonstrating expertise in React, Node.js, MongoDB, and CouchDB for F.G. Wilson and Sidel's new CMS web application.
-  - Significantly improved legacy project code through strategic refactoring. Enhanced frontend using scalable and reusable component patterns and implemented barrel architecture. Redesigned the backend using event-driven design and decider pattern, following separation of concerns and ensuring compatibility with any database integration.
-  - Proactively addressed code-related issues, specifically focusing on code smell and adherence to DRY principles, resulting in more efficient and maintainable code.
+  - Spearheaded a critical upgrade of the existing codebase, migrating all key software packages to their latest versions to leverage improved functionality, security, and performance. This task required a keen understanding of each package’s features and how their updates would impact the overall application. 
+  - Significantly improved legacy project code through strategic refactoring, incorporating the principle of Separation of Concerns. Enhanced frontend using scalable and reusable component patterns and implemented the barrel architecture, focusing on component segregation to optimize individual component responsibilities.
+  - Redesigned the backend using event-driven design and decider patterns, ensuring compatibility with any database integration. Strengthened backend refactoring by partitioning distinct service layers, respecting the principle of Separation of Concerns, which facilitated smoother database interactions and reduced coupling between modules.
+  - Proactively addressed code-related issues, specifically focusing on code smell and adherence to DRY (Don't Repeat Yourself) principles, incorporating Separation of Concerns for better code readability and maintainability, resulting in more efficient code.
   - Facilitated a significant update to the code packages by replacing the core CMS functionality from using Formik to React Hook Form, enhancing the system's overall performance.
-  - Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high quality of implementations.
+  - Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high quality implementation.
 - Co-founder at WiFit (2021-2022)
 - Operations Manager at Al Taraf Trading LLC (2020-2022)
 
