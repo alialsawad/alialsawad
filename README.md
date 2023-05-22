@@ -14,7 +14,7 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 {
   "languages": ["JavaScript", "TypeScript", "Python", "Rust", "Java"],
   "frameworks/libraries": ["React", "Node.js", "Django", "Next.js", "Three.js", "GraphQL", "Apollo", "Material UI", "Tailwind", "Yew.rs", "WebAssembly"],
-  "databases": ["MongoDB", "SQLite", "PostgreSQL", "MySQL", "CouchDB"],
+  "databases": ["MongoDB", "SQLite", "PostgreSQL", "MySQL", "CouchDB", "Firebase"],
   "data_science": ["Python", "Spacy", "Pandas", "Numpy", "Matplotlib", "Scikit-learn", "TensorFlow", "Keras", "Statsmodels", "Seaborn"],
   "other": ["Linux", "Bash", "GLSL", "Windows", "VSCodeVim"]
 }
