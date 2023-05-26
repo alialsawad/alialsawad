@@ -34,7 +34,7 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 
 **Full Stack JavaScript Developer**, Coolshop srl (2022-Present)
 
-- Led the full-stack JavaScript development process, demonstrating expertise in React, Node.js, MongoDB, and CouchDB for F.G. Wilson and Sidel's new CMS web application.
+- Assumed the role of primary developer on a full-stack JavaScript project, demonstrating expertise in React, Node.js, MongoDB, and CouchDB for F.G. Wilson and Sidel's new CMS web application.
 - Spearheaded a critical upgrade of the existing codebase, migrating all key software packages to their latest versions to leverage improved functionality, security, and performance. This task required a keen understanding of each package’s features and how their updates would impact the overall application. 
 - Facilitated a significant update to the code packages by replacing the core CMS functionality from using Formik to React Hook Form, enhancing the system's overall performance.
 - Significantly improved legacy project code through strategic refactoring. Enhanced frontend using scalable and reusable component patterns and implemented the barrel architecture, focusing on component segregation to optimize individual component responsibilities.
