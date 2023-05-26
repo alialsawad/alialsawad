@@ -79,5 +79,5 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 ## 💼 Projects
 
 - Software Engineering Portfolio: An exhibition of software engineering skills built using advanced technologies like Next.js, React patterns, TypeScript, Three.js, framer-motion, GLSL. [View Here](https://alialsawad.com/)
-- KJE: A unique language learning platform utilizing real-time speech recognition, validation, and a corpus of 12,000 English-translated sentences. [View Here](https://kje-frontend.vercel.app/)
+- KJE: A unique language learning platform utilizing real-time speech recognition, validation, and a corpus of 12,000 English-translated sentences.
 - RemoJobs: A remote job aggregator and professional network developed as a Harvard Capstone project.
