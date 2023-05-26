@@ -40,7 +40,7 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 - Significantly improved legacy project code through strategic refactoring. Enhanced frontend using scalable and reusable component patterns and implemented the barrel architecture, focusing on component segregation to optimize individual component responsibilities.
 - Redesigned the backend using event-driven design and decider patterns, ensuring compatibility with any database integration. Strengthened backend refactoring by partitioning distinct service layers, respecting the principle of Separation of Concerns, which facilitated smoother database interactions and reduced coupling between modules.
 - Proactively addressed code-related issues, specifically focusing on code smell and adherence to DRY (Don't Repeat Yourself) principles, incorporating Separation of Concerns for better code readability and maintainability, resulting in more efficient code.
-- Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high quality implementation.
+- Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high-quality implementation.
 - Reconceptualized data structures within the application, replacing complex, nested structures with flat, easily accessible models, boosting system performance and development speed.
 
 **Co-founder**, WiFit (2021 - 2022)
@@ -78,6 +78,6 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 
 ## 💼 Projects
 
-- Software Engineering Portfolio: An exhibition of software engineering skills built using advanced technologies like Next.js, React patterns, TypeScript, Three.js, framer-motion, GLSL. [View Here](https://alialsawad.com/)
+- Software Engineering Portfolio: An exhibition of software engineering skills built using advanced technologies like Next.js, TypeScript, Three.js, framer-motion, GLSL. [View Here](https://alialsawad.com/)
 - KJE: A unique language learning platform utilizing real-time speech recognition, validation, and a corpus of 12,000 English-translated sentences.
 - RemoJobs: A remote job aggregator and professional network developed as a Harvard Capstone project.
