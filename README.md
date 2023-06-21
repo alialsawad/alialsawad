@@ -1,6 +1,5 @@
 # Hi there, I'm Ali Alsawad 👋
 
-![Profile views](https://gpvc.arturio.dev/alialsawad)
 ![GitHub followers](https://img.shields.io/github/followers/alialsawad?style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-al-sawad/)
 
@@ -51,10 +50,6 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 
 - Cultivated a variety of transferable skills including project management, communication, and problem-solving.
 - Managed operations while self-studying programming, demonstrating exceptional time management and determination.
-
-## 📈 GitHub Stats
-
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alialsawad&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
