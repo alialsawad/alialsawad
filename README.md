@@ -21,9 +21,10 @@ I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy grad
 
 ## 🎓 Education
 
+- 🎓 MicroMasters® Program in Software Development from The University of British Columbia (2023)
 - 🎓 MicroMasters® Program in Algorithms and Data Structures from UC San Diego (2023)
-- 🎓 Bachelor of Pharmacy from University of Sharjah (2019)
-- 🔵 Currently enrolled in MicroMasters® Program in Software Development from The University of British Columbia
+- 🎓 Bachelor of Pharmacy from the University of Sharjah (2019)
+
 
 ## 📚 I'm currently learning
 
