@@ -11,20 +11,35 @@ My academic background also includes graduate-level studies at **UC San Diego**,
 ## 🚀 Skills
 
 ### 🖥️ Languages
-JavaScript · TypeScript · Python · Go
+- JavaScript  
+- TypeScript  
+- Python  
+- Go  
 
 ### ⚙️ Frameworks & Libraries
-React · Next.js · Node.js · Express.js · Redux · GraphQL · Apollo  
-React Hook Form · Stripe · Tailwind · Material UI · Shadcn · Three.js · Django  
-Pandas · Numpy · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · Spacy · Statsmodels
+- Frontend: React · Next.js · Redux · React Hook Form · Three.js · Tailwind · Material UI · Shadcn  
+- Backend: Node.js · Express.js · Django · GraphQL · Apollo · Stripe  
+- Data Science & ML: Pandas · Numpy · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · Spacy · Statsmodels  
 
 ### 🗄️ Databases
-PostgreSQL · MongoDB · Supabase · Redis · MySQL · Firebase · SQLite · CouchDB
+- PostgreSQL · MongoDB · Supabase · Redis · MySQL · Firebase · SQLite · CouchDB  
 
-### 🛠️ Tools & Other
-Figma · Linux · Bash · VSCodeVim · Windows · GLSL  
-Git · GitHub · GitLab · REST APIs · Event-Driven Design · Domain-Driven Design · Microservices  
-Docker · Kubernetes · CI/CD (GitHub Actions) · Jira · TDD · BDD
+### 🏗️ Architecture & Design
+- Event-Driven Design  
+- Domain-Driven Design (DDD)  
+- Microservices · Modular Monolith  
+- REST APIs · MVC  
+
+### 🛠️ Tools & DevOps
+- Git · GitHub · GitLab  
+- Docker · Kubernetes  
+- CI/CD (GitHub Actions)  
+- Jira · TDD · BDD  
+
+### 💻 Other
+- Figma  
+- Linux · Bash · VSCodeVim · Windows  
+- GLSL (OpenGL Shading Language)  
 
 ## 🎓 Education
 
