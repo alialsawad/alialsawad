@@ -11,23 +11,20 @@ My academic background also includes graduate-level studies at **UC San Diego**,
 ## 🚀 Skills
 
 ### 🖥️ Languages
-
 JavaScript · TypeScript · Python · Go
 
 ### ⚙️ Frameworks & Libraries
-
 React · Next.js · Node.js · Express.js · Redux · GraphQL · Apollo  
 React Hook Form · Stripe · Tailwind · Material UI · Shadcn · Three.js · Django  
 Pandas · Numpy · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · Spacy · Statsmodels
 
 ### 🗄️ Databases
-
 PostgreSQL · MongoDB · Supabase · Redis · MySQL · Firebase · SQLite · CouchDB
 
 ### 🛠️ Tools & Other
-
 Figma · Linux · Bash · VSCodeVim · Windows · GLSL  
-Git · GitHub · GitLab · REST APIs · Event-Driven Design
+Git · GitHub · GitLab · REST APIs · Event-Driven Design · Domain-Driven Design · Microservices  
+Docker · Kubernetes · CI/CD (GitHub Actions) · Jira · TDD · BDD
 
 ## 🎓 Education
 
