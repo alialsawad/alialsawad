@@ -3,77 +3,108 @@
 ![GitHub followers](https://img.shields.io/github/followers/alialsawad?style=social)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-al-sawad/)
 
-I'm a Full Stack Engineer currently working at Coolshop srl. I'm a pharmacy graduate who transitioned into software engineering. I'm passionate about web development and data science.
+I’m a **Full Stack Developer** with 4+ years of industry experience and a **Master’s degree in Computer Science (Software Engineering)** from the University of Hertfordshire.  
+My academic background also includes graduate-level studies at **UC San Diego**, **The University of British Columbia**, and a specialization program at **HarvardX**.
 
 ![Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ## 🚀 Skills
 
-```python
-{
-  "languages": ["JavaScript", "TypeScript", "Python", "Rust", "Java", "GoLang", "C#"],
-  "frameworks/libraries": ["React", "Node.js", "Django", "Next.js", "Three.js", "GraphQL", "Apollo", "Material UI", "Tailwind", "Yew.rs", "WebAssembly"],
-  "databases": ["MongoDB", "SQLite", "PostgreSQL", "MySQL", "CouchDB", "Firebase"],
-  "data_science": ["Python", "Spacy", "Pandas", "Numpy", "Matplotlib", "Scikit-learn", "TensorFlow", "Keras", "Statsmodels", "Seaborn"],
-  "other": ["Linux", "Bash", "GLSL", "Windows", "VSCodeVim"]
-}
-```
+### 🖥️ Languages
+
+JavaScript · TypeScript · Python · Go
+
+### ⚙️ Frameworks & Libraries
+
+React · Next.js · Node.js · Express.js · Redux · GraphQL · Apollo  
+React Hook Form · Stripe · Tailwind · Material UI · Shadcn · Three.js · Django  
+Pandas · Numpy · Matplotlib · Seaborn · Scikit-learn · TensorFlow · Keras · Spacy · Statsmodels
+
+### 🗄️ Databases
+
+PostgreSQL · MongoDB · Supabase · Redis · MySQL · Firebase · SQLite · CouchDB
+
+### 🛠️ Tools & Other
+
+Figma · Linux · Bash · VSCodeVim · Windows · GLSL  
+Git · GitHub · GitLab · REST APIs · Event-Driven Design
 
 ## 🎓 Education
 
-- 🎓 MicroMasters® Program in Software Development from The University of British Columbia (2023)
-- 🎓 MicroMasters® Program in Algorithms and Data Structures from UC San Diego (2023)
-- 🎓 Bachelor of Pharmacy from the University of Sharjah (2019)
-
-
-## 📚 I'm currently learning
-
-- 📊 Richards M. Fundamentals of Software Architecture
+- 🎓 **Master’s Degree in Computer Science (Software Engineering)** – University of Hertfordshire (2025)
+- 🎓 **MicroMasters® in Software Development** – University of British Columbia (2023)
+- 🎓 **MicroMasters® in Algorithms and Data Structures** – UC San Diego (2023)
+- 🎓 **Bachelor of Pharmacy** – University of Sharjah (2019)
 
 ## 🏢 Work Experience
 
-**Full Stack JavaScript Developer**, Coolshop srl (2022-Present)
+**Part-Time Full Stack Developer**, Valor Brakes (2024 – Present)
 
-- Assumed the role of primary developer on a full-stack JavaScript project, demonstrating expertise in React, Node.js, MongoDB, and CouchDB for F.G. Wilson and Sidel's new CMS web application.
-- Spearheaded a critical upgrade of the existing codebase, migrating all key software packages to their latest versions to leverage improved functionality, security, and performance. This task required a keen understanding of each package’s features and how their updates would impact the overall application. 
-- Facilitated a significant update to the code packages by replacing the core CMS functionality from using Formik to React Hook Form, enhancing the system's overall performance.
-- Significantly improved legacy project code through strategic refactoring. Enhanced frontend using scalable and reusable component patterns and implemented the barrel architecture, focusing on component segregation to optimize individual component responsibilities.
-- Redesigned the backend using event-driven design and decider patterns, ensuring compatibility with any database integration. Strengthened backend refactoring by partitioning distinct service layers, respecting the principle of Separation of Concerns, which facilitated smoother database interactions and reduced coupling between modules.
-- Proactively addressed code-related issues, specifically focusing on code smell and adherence to DRY (Don't Repeat Yourself) principles, incorporating Separation of Concerns for better code readability and maintainability, resulting in more efficient code.
-- Demonstrated agility and adaptability by quickly learning and applying new technologies as per project needs, thereby ensuring timely delivery and high-quality implementation.
-- Reconceptualized data structures within the application, replacing complex, nested structures with flat, easily accessible models, boosting system performance and development speed.
+- Collaborating on software initiatives to modernize internal tools and explore customer-facing solutions.
+- Developing features and prototypes using **React, Next.js, Node.js, Supabase, and Stripe**.
+- Implemented modern authentication and payment integrations, and enhanced data management with Supabase.
+- Delivering technical demonstrations and documentation to support management’s evaluation of digital product strategies.
 
-**Co-founder**, WiFit (2021 - 2022)
+**Creator & Full Stack Developer**, TalkTrak – Multi-Language Speech-First Learning Platform (2024 – Present)
 
-- Conceptualized and developed a health club aggregator and business intelligence platform, showcasing my ability to handle product development from end to end.
+- MSc Capstone project: developed a **speech-first platform** that **currently supports Japanese, Korean, and Chinese**, with vocabulary study, reading exercises, and **real-time pronunciation validation**.
+- Built a **language-learning content pipeline** that combines curated vocabulary sets with AI-generated dialogues, creating structured pathways for learners.
+- Engineered a **full stack application** with **Next.js, Supabase, and Stripe** to manage user authentication, progress tracking, and a credit-based access model.
+- Integrated **speech recognition APIs** with a custom **audio-capture and validation interface**, delivering instant pronunciation feedback.
+- Designed a modular, scalable architecture with reusable components to support expansion of languages and vocabulary.
 
-**Operations Manager**, Al Taraf Trading LLC. (2020 - 2022)
+**Full Stack Developer**, Coolshop srl (2022 – 2024)
 
-- Cultivated a variety of transferable skills including project management, communication, and problem-solving.
-- Managed operations while self-studying programming, demonstrating exceptional time management and determination.
+- Led development of a **full-stack JavaScript CMS application** for F.G. Wilson and Sidel, using **React, Node.js, MongoDB, and CouchDB**.
+- Migrated and upgraded core packages, enhancing performance, security, and maintainability.
+- Replaced legacy Formik-based forms with **React Hook Form**, improving performance and maintainability.
+- Refactored frontend into reusable, scalable component patterns with a barrel architecture.
+- Redesigned the backend with **event-driven design and decider patterns**, ensuring database flexibility.
+- Improved system performance by replacing nested data structures with optimized flat models.
+- Maintained high-quality standards by addressing code smells, enforcing DRY principles, and ensuring separation of concerns.
 
-## 📫 How to reach me
+**Full Stack Developer**, Al Taraf Trading LLC (2021 – 2022)
 
-- LinkedIn: [Ali Alsawad](https://www.linkedin.com/in/ali-al-sawad/)
-- Portfolio: [alialsawad.com](https://alialsawad.com/)
-- Email: [alihaideralsawad@gmail.com](mailto:alihaideralsawad@gmail.com)
-
-## 💻 Coding Profiles
-
-- LeetCode: [alihaideralsawad](https://leetcode.com/alihaideralsawad/)
-
-## 🗣️ Languages
-
-- Arabic (Native)
-- English (Native)
-- Japanese (Beginner)
-
-## ⚡ Interests
-
-- I'm passionate about continuous learning with interests in reading: Philosophy, astronomy, psychology, critical thinking, and decision-making.
+- Built and maintained internal business applications with **JavaScript frameworks and Node.js**, streamlining operations.
+- Developed RESTful APIs and database solutions to support business decision-making.
+- Worked closely with stakeholders to translate needs into scalable technical solutions.
+- Balanced full-time development work with self-study, solidifying expertise in full stack engineering.
 
 ## 💼 Projects
 
-- Software Engineering Portfolio: An exhibition of software engineering skills built using advanced technologies like Next.js, TypeScript, Three.js, framer-motion, GLSL. [View Here](https://alialsawad.com/)
-- KJE: A unique language learning platform utilizing real-time speech recognition, validation, and a corpus of 12,000 English-translated sentences.
-- RemoJobs: A remote job aggregator and professional network developed as a Harvard Capstone project.
+- **TalkTrak (MSc Capstone Project)** – A **multi-language speech-first learning platform** that **currently supports Japanese, Korean, and Chinese**, with the architecture designed to expand to additional languages.
+
+  - Content pipeline combines curated vocabulary with AI-generated dialogues.
+  - Built with **Next.js, Supabase, Stripe, and Azure AI** for authentication, progress tracking, and pronunciation scoring.
+  - Features a **custom audio-capture and validation interface** for real-time learner feedback.
+
+- **Coolshop PIM (Product Information Management System)** – A **content management system** for Coolshop srl, handling product data, metadata, and assets. Developed with **React, Node.js, MongoDB, and CouchDB**, including reusable component patterns and CMS workflow optimizations.
+
+- **Software Engineering Portfolio** – An **interactive 3D portfolio**, highlighting engineering and design skills through **Next.js, TypeScript, Three.js, Framer Motion, and GLSL**. [View Here](https://alialsawad.com/)
+
+- **FlexiHire** – A **remote job aggregator and professional networking platform**, connecting job seekers with global opportunities. Built as a personal project with **full-stack JavaScript and scalable architecture**.
+
+## 📫 How to Reach Me
+
+- 💼 LinkedIn: [Ali Alsawad](https://www.linkedin.com/in/ali-al-sawad/)
+- 🌐 Portfolio: [alialsawad.com](https://alialsawad.com/)
+- ✉️ Email: [alihaideralsawad@gmail.com](mailto:alihaideralsawad@gmail.com)
+
+## 💻 Coding Profiles
+
+- 🟠 LeetCode: [alihaideralsawad](https://leetcode.com/alihaideralsawad/)
+
+## 🗣️ Languages
+
+- 🇦🇪 Arabic (Native)
+- 🇬🇧 English (Native-level)
+- 🇯🇵 Japanese (Beginner)
+
+## ⚡ Interests
+
+I’m passionate about **continuous learning** and spend time reading about:
+
+- Philosophy
+- Astronomy
+- Psychology
+- Critical thinking & decision-making
